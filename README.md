@@ -44,3 +44,4 @@
 ## 🤝 Connect & Focus
 ![Followers](https://img.shields.io/github/followers/CodeAlanDebug?label=Followers&style=flat)
 ![Current Focus](https://img.shields.io/badge/Focus-Cloud%20%26%20AI-0ea5e9?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=CodeAlanDebug&label=Profile%20views&color=0e75b6&style=flat)
