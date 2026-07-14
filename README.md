@@ -1,5 +1,3 @@
-# Hi there, I'm Alan 👋
-
 ## 📊 Activity Snapshot
 [![](https://raw.githubusercontent.com/CodeAlanDebug/CodeAlanDebug/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/CodeAlanDebug/CodeAlanDebug/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CodeAlanDebug/CodeAlanDebug/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
