@@ -32,4 +32,4 @@
 [![](https://raw.githubusercontent.com/CodeAlanDebug/CodeAlanDebug/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CodeAlanDebug/CodeAlanDebug/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=CodeAlanDebug&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=CodeAlanDebug&label=Profile%20views&color=0e75b6&style=flat)
